@@ -6,10 +6,11 @@ An autonomous robot designed to follow a pre-defined track using a QTR-8RC Refle
 
 ## 📸 System Preview
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://raw.githubusercontent.com/Saeed-Ghazal/Line-Following-Robot-main/main/3D_Model/Line1.JPG" alt="Line Robot 1" style="width: 300px; height: auto;" />
-  <img src="https://raw.githubusercontent.com/Saeed-Ghazal/Line-Following-Robot-main/main/3D_Model/Line4.JPG" alt="Line Robot 2" style="width: 300px; height: auto;" />
-  <img src="https://raw.githubusercontent.com/Saeed-Ghazal/Line-Following-Robot-main/main/3D_Model/Screenshot%202025-05-20%20190623.png" alt="Line Robot 3" style="width: 300px; height: auto;" />
+  <img src="https://github.com/Saeed-Ghazal/Line-Following-Robot-main/blob/main/3D_Model/Line1.JPG?raw=true" alt="Line Robot 1" style="width: 300px; height: auto;" />
+  <img src="https://github.com/Saeed-Ghazal/Line-Following-Robot-main/blob/main/3D_Model/Line4.JPG?raw=true" alt="Line Robot 2" style="width: 300px; height: auto;" />
+  <img src="https://github.com/Saeed-Ghazal/Line-Following-Robot-main/blob/main/3D_Model/Screenshot%202025-05-20%20190623.png?raw=true" alt="Line Robot 3" style="width: 300px; height: auto;" />
 </div>
+
 
 
 
