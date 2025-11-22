@@ -5,7 +5,11 @@ An autonomous robot designed to follow a pre-defined track using a QTR-8RC Refle
 ---
 
 ## 📸 System Preview
-
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="رابط_الصورة_1_المباشر" alt="Line Robot 1" style="width: 300px; height: auto;" />
+  <img src="رابط_الصورة_2_المباشر" alt="Line Robot 2" style="width: 300px; height: auto;" />
+  <img src="رابط_الصورة_3_المباشر" alt="Line Robot 3" style="width: 300px; height: auto;" />
+</div>
 
 ---
 
